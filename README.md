@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Chat with your Documents & Data
 
 One chat box for **PDFs, Word, Excel and CSV**. Ask about policies, ask for totals, or ask questions that need both.
@@ -129,3 +130,7 @@ python -m pytest -q
 ## Author
 
 **Jinka Kumara Swamy:** Python developer building AI engineering projects (RAG, agents, text-to-SQL).
+=======
+# chat-with-data
+chat with data 
+>>>>>>> 609c3cd55eaa6f8c3aa8cba49faa024bec71e310
