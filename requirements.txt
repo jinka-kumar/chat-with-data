@@ -1,0 +1,8 @@
+streamlit>=1.40
+ollama>=0.4
+pypdf>=5.0
+numpy>=2.1
+python-docx>=1.1
+openpyxl>=3.1
+duckdb>=1.1
+pytest>=8.0
